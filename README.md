@@ -2,10 +2,8 @@
 
 Web Calendar is a REST service that enables user to add and delete events.
 
-## Dependencies
+## Build
 
 ```
-pip install flask
-pip install flask-restful
-pip install flask-sqlalchemy
+pip install -r requirements.txt
 ```
